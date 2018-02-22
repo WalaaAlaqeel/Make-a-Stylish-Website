@@ -1,0 +1,86 @@
+#Blogtitle{
+  background-image: url("image/images/header.png");
+  font-family: "Bodoni MT",Arial,"Dubai";
+  font-weight: bold;
+  color:rgb(220,178,0);
+  padding: 40px;
+  border-radius: 10px;
+}
+.BottonStyle{
+display: inline-block;
+background-color: lightgray;
+border: 1px solid rgb(0,134,134);
+border-radius: 3px;
+width: 90px;
+color: rgb(0,128,128);
+font-family: "calibri",Arial,"calibri";
+text-align: center ;
+margin: 60px 0px -10px 30px;
+}
+.pagetitle {
+font-family:"Dubai",Arial,"calibri";
+font-size:20px ;
+color: rgb(188,0,94);
+margin: 0px 0px 0px 35px;
+}
+.InsideBorder{
+  border:1px dashed grey;
+  width: 720px;
+  margin-left:  80px;
+  padding-left: 10px;
+  color: rgb(0,0,45);
+  font-family: "Dubai",Arial,"calibri";
+}
+#happycolor{
+  color: rgb(255,124,128);
+}
+#Iam{
+  font-weight: bold;
+}
+.InsideBorder img{
+  width: 500px;
+  height: 200px;
+  margin-left: 50px;
+}
+/*Last trips images*/
+.Cities{
+    display: block;
+}
+.Cities img{
+    margin-top: 20px;
+    margin-left: 50px;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+/*footer*/
+.Footer {
+  font-family:"Dubai",Arial,"calibri";
+  font-size:18px ;
+  color:#fff;
+  background-color: rgb(30,140,158);
+  padding:  25px;
+  margin-top: 100px;
+  border-radius: 10px;
+}
+#contact{
+  margin-top: -3px;
+}
+#EmailIcon{
+  width: 30px;
+  height: 30px;
+  margin-top: -4px;
+  margin-right: 5px;
+}
+#email{
+  display: flex;
+}
+
+/*Abha file*/
+#Abhaimg{
+  margin-left: 40px;
+  width: 550px;
+  height: 420px;
+  border-radius: 10px;
+}
